@@ -4,7 +4,7 @@ I am Software Enginner at divercity.io
 - ☕ I’m learning how to cook.
 - 💬 Ask me anything about React, NodeJS, always a pleasure to help people.   
 
-Feel free to reach me, we are always looking for talents  
+Feel free to reach me:
 📫 [salah@divercity.io](mailto:salah@divercity.io)  
 📫 [LinkedIn](http://linkedin.com/in/salah-bc/)
  | [Twitter](https://twitter.com/SalahEddineBC)
