@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am Software Enginner at divercity.io 
+I am Software Engineer at divercity.io 
 - 🔭 I’m currently working on nextJS version of [divercity.io/blog](divercity.io/blog). 
 - ☕ I’m learning how to cook.
 - 💬 Ask me anything about React, NodeJS, always a pleasure to help people.   
