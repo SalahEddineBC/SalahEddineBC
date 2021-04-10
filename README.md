@@ -1,11 +1,10 @@
 ### Hi there 👋 
-I am Software Engineer at divercity.io 
-- 🔭 I’m currently working on nextJS version of [divercity.io/blog](https://blog.divercity.io). 
+I am Software Engineer at traktion.ai  
 - ☕ I’m learning how to cook.
 - 💬 Ask me anything about React, NodeJS, always a pleasure to help people.   
 
 Feel free to reach me:
-📫 [salah@divercity.io](mailto:salah@divercity.io)  
+📫 [salah@traktion.ai](mailto:salah@traktion.ai)  
 📫 [LinkedIn](http://linkedin.com/in/salah-bc/)
  | [Twitter](https://twitter.com/SalahEddineBC)
 
