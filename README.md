@@ -3,7 +3,7 @@ I am Software Engineer at traktion.ai
 - ☕ I’m learning how to cook.
 - 💬 Ask me anything about React, NodeJS, always a pleasure to help people.   
 
-Feel free to reach me:
+Feel free to reach me:  
 📫 [salah@traktion.ai](mailto:salah@traktion.ai)  
 📫 [LinkedIn](http://linkedin.com/in/salah-bc/)
  | [Twitter](https://twitter.com/SalahEddineBC)
